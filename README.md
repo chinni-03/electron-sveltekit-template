@@ -6,7 +6,7 @@
 
 A modern starter template for building cross-platform desktop applications using Electron and SvelteKit with TypeScript support.
 
-<img width="1920" height="1044" alt="image" src="https://github.com/user-attachments/assets/4cfd6fff-4566-48b5-9527-408cd04e144d" />
+<img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/62c85318-967e-42cc-bcb6-17440a903cab" />
 
 ## Features
 
@@ -168,7 +168,7 @@ npm install
     - Reference to related issues
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for full details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/chinni-03/electron-sveltekit-template/blob/main/LICENSE) file for full details.
 
 ## Support
 For support, please:
