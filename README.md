@@ -185,4 +185,3 @@ For support, please:
 <p align="center">
   Built with ❤️ by <a href="https://github.com/chinni-03">chinni-03</a>
 </p>
-# electron-sveltekit-template
